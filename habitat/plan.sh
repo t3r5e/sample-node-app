@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=your_origin
+pkg_origin=t3r5e-sample-app
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
